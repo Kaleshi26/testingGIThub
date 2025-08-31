@@ -1,2 +1,2 @@
 # testingGIThub
-just to test
+test how to merge, rules, and commit approve etc....
